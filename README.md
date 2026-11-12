@@ -69,7 +69,8 @@ Skills load automatically when your request matches what they do. You can also c
 |---|---|
 | Claude Code | `/bfun:ads-integration` |
 | Antigravity | `/bfun:ads-integration` |
-| Codex / Copilot | describe the task, the agent picks the skill |
+| Codex | `/bfun:ads-integration` |
+| Copilot | describe the task, the agent picks the skill |
 
 ### ads-integration
 
