@@ -1,13 +1,13 @@
 {
   "name": "bfun",
   "displayName": "BFun",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "BFun's internal plugin for coding agents, with skills for Unity game development, ads integration, and monetization.",
   "author": {
     "name": "BFun"
   },
-  "homepage": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
-  "repository": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "homepage": "https://github.com/Unity-UPM-Packages/BFun-Agent-Plugins",
+  "repository": "https://github.com/Unity-UPM-Packages/BFun-Agent-Plugins",
   "license": "UNLICENSED",
   "keywords": [
     "unity",

@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "author": {
     "name": "BFun"
   },
-  "homepage": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
-  "repository": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "homepage": "https://github.com/Unity-UPM-Packages/BFun-Agent-Plugins",
+  "repository": "https://github.com/Unity-UPM-Packages/BFun-Agent-Plugins",
   "license": "UNLICENSED",
   "category": "Developer Tools",
   "keywords": [
