@@ -1,0 +1,20 @@
+{
+  "name": "bfun-agent-plugins",
+  "interface": {
+    "displayName": "BFun"
+  },
+  "plugins": [
+    {
+      "name": "bfun",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

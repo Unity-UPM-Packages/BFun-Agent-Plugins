@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "author": {
+    "name": "BFun"
+  },
+  "homepage": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "repository": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "license": "UNLICENSED",
+  "category": "Developer Tools",
+  "keywords": [
+    "unity",
+    "gamedev",
+    "ads",
+    "admob",
+    "mediation",
+    "firebase",
+    "monetization"
+  ]
+}

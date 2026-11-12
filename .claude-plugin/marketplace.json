@@ -1,0 +1,15 @@
+{
+  "name": "bfun-agent-plugins",
+  "description": "BFun plugins for coding agents, packaging team know-how as agent skills.",
+  "owner": {
+    "name": "BFun"
+  },
+  "plugins": [
+    {
+      "name": "bfun",
+      "source": "./",
+      "description": "BFun's plugin for Unity game development, ads integration, and monetization.",
+      "category": "Developer Tools"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "bfun",
+  "displayName": "BFun",
+  "version": "0.1.0",
+  "description": "BFun's internal plugin for Antigravity, with skills for Unity game development, ads integration, and monetization.",
+  "logo": "assets/bfun.svg",
+  "suggestedPrompts": [
+    "Integrate Ads Manager into this Unity project.",
+    "Turn the TODO ADS comments in my scripts into ad calls.",
+    "Make AdsSplash the start scene of my game."
+  ],
+  "author": {
+    "name": "BFun"
+  },
+  "homepage": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "repository": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "unity",
+    "gamedev",
+    "ads",
+    "admob",
+    "mediation",
+    "firebase",
+    "monetization"
+  ]
+}

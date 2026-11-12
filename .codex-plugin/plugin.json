@@ -1,0 +1,42 @@
+{
+  "name": "bfun",
+  "version": "0.1.0",
+  "description": "BFun's internal plugin for Codex, with skills for Unity game development, ads integration, and monetization.",
+  "author": {
+    "name": "BFun"
+  },
+  "homepage": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "repository": "https://github.com/QuangHaiVu/BFun-Agent-Plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "unity",
+    "gamedev",
+    "ads",
+    "admob",
+    "mediation",
+    "firebase",
+    "monetization"
+  ],
+  "skills": "./skills/",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "BFun",
+    "shortDescription": "Unity, ads, monetization",
+    "longDescription": "Use BFun skills to build Unity games, integrate ads and mediation, and ship monetization features.",
+    "developerName": "BFun",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "logo": "./assets/bfun.svg",
+    "composerIcon": "./assets/bfun.svg",
+    "brandColor": "#FF6A00",
+    "defaultPrompt": [
+      "Integrate Ads Manager into this Unity project.",
+      "Turn the TODO ADS comments in my scripts into ad calls.",
+      "Make AdsSplash the start scene of my game."
+    ]
+  }
+}
